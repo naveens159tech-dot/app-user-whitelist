@@ -1,0 +1,10 @@
+{
+  "userInstituteMap": {
+    "user123": "inst001",
+    "user456": "inst001",
+    "user789": "inst001",
+    "user321": "inst002",
+    "user654": "inst002",
+    "user111": "inst003"
+  }
+}
