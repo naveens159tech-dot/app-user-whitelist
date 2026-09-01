@@ -1,0 +1,7 @@
+{
+  "id": "inst003",
+  "name": "PQR College of Science",
+  "latitude": 17.398765,
+  "longitude": 78.470012,
+  "allowedUsers": ["user111"]
+}
