@@ -1,0 +1,7 @@
+{
+  "id": "inst002",
+  "name": "XYZ Institute of Technology",
+  "latitude": 17.412345,
+  "longitude": 78.501234,
+  "allowedUsers": ["user321", "user654"]
+}
